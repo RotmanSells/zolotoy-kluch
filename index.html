@@ -184,10 +184,10 @@
 
   .menu-card-info {
     flex: 1;
-    padding: 14px 16px;
+    padding: 12px 14px;
     display: flex;
     flex-direction: column;
-    justify-content: space-between;
+    gap: 4px;
     min-width: 0;
     position: relative;
     z-index: 2;
@@ -197,72 +197,66 @@
 
   .menu-card-name {
     font-family: 'Playfair Display', serif;
-    font-size: 14px;
+    font-size: 13px;
     font-weight: 700;
     color: var(--green-dark);
     text-transform: uppercase;
     line-height: 1.25;
-    margin-bottom: 6px;
     letter-spacing: 0.5px;
-    position: relative;
-    padding-bottom: 6px;
   }
 
   .menu-card-name::after {
     content: '';
-    position: absolute;
-    bottom: 0;
-    left: 0;
-    width: 30px;
+    display: block;
+    width: 24px;
     height: 2px;
     background: linear-gradient(90deg, var(--gold), transparent);
     border-radius: 1px;
+    margin-top: 4px;
   }
 
   .menu-card-desc {
-    font-size: 11px;
+    font-size: 10.5px;
     font-weight: 400;
     color: var(--text-muted);
-    line-height: 1.5;
-    margin-bottom: 8px;
+    line-height: 1.4;
     display: -webkit-box;
     -webkit-line-clamp: 3;
     -webkit-box-orient: vertical;
     overflow: hidden;
     font-style: italic;
-    letter-spacing: 0.2px;
   }
 
   .menu-card-bottom {
     display: flex;
     align-items: baseline;
-    gap: 8px;
+    gap: 6px;
     margin-top: auto;
+    padding-top: 2px;
   }
 
   .menu-card-price {
     font-family: 'Playfair Display', serif;
-    font-size: 20px;
+    font-size: 17px;
     font-weight: 900;
     color: var(--gold-dark);
-    letter-spacing: 0.5px;
-    text-shadow: 0 1px 2px rgba(168,139,74,0.15);
+    white-space: nowrap;
   }
 
   .menu-card-price span {
-    font-size: 13px;
+    font-size: 12px;
     font-weight: 400;
     color: var(--text-muted);
-    letter-spacing: 0;
   }
 
   .menu-card-weight {
-    font-size: 11px;
+    font-size: 10px;
     color: var(--text-muted);
-    font-weight: 500;
     background: rgba(196,162,101,0.12);
-    padding: 2px 8px;
+    padding: 2px 6px;
     border-radius: 10px;
+    white-space: nowrap;
+  }
     letter-spacing: 0.3px;
   }
 
@@ -337,6 +331,15 @@
   }
 
   /* ===== RESPONSIVE ===== */
+  @media (max-width: 380px) {
+    .menu-card-img { width: 100px; }
+    .menu-card-img img { width: 100px; height: 90px; }
+    .menu-card-name { font-size: 12px; }
+    .menu-card-desc { font-size: 10px; -webkit-line-clamp: 2; }
+    .menu-card-price { font-size: 15px; }
+    .menu-card-info { padding: 10px 10px; gap: 2px; }
+  }
+
   @media (min-width: 600px) {
     .hero { height: 350px; }
     .tabs-wrap { margin-top: 350px; top: 350px; }
