@@ -349,7 +349,7 @@
     "weight": "1литр",
     "price": 300,
     "category": "drinks",
-    "img": "https://images.unsplash.com/photo-1529692236671-f1f6cf9683ba?w=400&q=80"
+    "img": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=400&q=80"
   },
   {
     "name": "ВОДА «ВОЛЖАНКА»",
@@ -557,7 +557,7 @@
     "weight": "",
     "price": 2500,
     "category": "snacks",
-    "img": "https://images.unsplash.com/photo-1529692236671-f1f6cf9683ba?w=400&q=80"
+    "img": "https://images.unsplash.com/photo-1619566636858-adf3ef46400b?w=400&q=80"
   },
   {
     "name": "МЯСО ПО-ЦАРСКИ",
@@ -797,7 +797,7 @@
     "weight": "300г",
     "price": 650,
     "category": "salads",
-    "img": "https://images.unsplash.com/photo-1546833998-877b37c2e5c6?w=400&q=80"
+    "img": "https://images.unsplash.com/photo-1529692236671-f1f6cf9683ba?w=400&q=80"
   },
   {
     "name": "КАВКАЗСКАЯ ЛЕГЕНДА",
@@ -861,7 +861,7 @@
     "weight": "500г",
     "price": 700,
     "category": "sides",
-    "img": "https://images.unsplash.com/photo-1529692236671-f1f6cf9683ba?w=400&q=80"
+    "img": "https://images.unsplash.com/photo-1509440159596-0249088772ff?w=400&q=80"
   },
   {
     "name": "ХАЧАПУРИ ПО-МЕГРЕЛЬСКИ",
@@ -909,7 +909,7 @@
     "weight": "1шт",
     "price": 100,
     "category": "sides",
-    "img": "https://images.unsplash.com/photo-1529692236671-f1f6cf9683ba?w=400&q=80"
+    "img": "https://images.unsplash.com/photo-1558961363-fa8fdf82db35?w=400&q=80"
   },
   {
     "name": "ЛЕПЁШКА",
@@ -933,7 +933,7 @@
     "weight": "3шт",
     "price": 550,
     "category": "hot_starters",
-    "img": "https://images.unsplash.com/photo-1529692236671-f1f6cf9683ba?w=400&q=80"
+    "img": "https://images.unsplash.com/photo-1540420773420-3366772f4999?w=400&q=80"
   },
   {
     "name": "ЗАПЕЧЕННЫЕ ГРИБЫ",
