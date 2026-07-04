@@ -1,0 +1,1074 @@
+[
+  {
+    "name": "ПАХЛАВА",
+    "desc": "",
+    "weight": "200г",
+    "price": 500,
+    "category": "desserts",
+    "img": "https://images.unsplash.com/photo-1563805042-7684c019e1cb?w=400&q=80"
+  },
+  {
+    "name": "ШТРУНДЕЛЬ",
+    "desc": "",
+    "weight": "200г",
+    "price": 500,
+    "category": "desserts",
+    "img": "https://images.unsplash.com/photo-1555939594-58d7cb561ad1?w=400&q=80"
+  },
+  {
+    "name": "ЧИЗКЕЙК",
+    "desc": "",
+    "weight": "150г",
+    "price": 300,
+    "category": "desserts",
+    "img": "https://images.unsplash.com/photo-1488477181946-6428a0291777?w=400&q=80"
+  },
+  {
+    "name": "МОРОЖЕНОЕ (АССОРТИ)",
+    "desc": "",
+    "weight": "200г",
+    "price": 250,
+    "category": "desserts",
+    "img": "https://images.unsplash.com/photo-1544025162-d76694265947?w=400&q=80"
+  },
+  {
+    "name": "ВАРЕНЬЕ",
+    "desc": "",
+    "weight": "",
+    "price": 250,
+    "category": "desserts",
+    "img": "https://images.unsplash.com/photo-1558961363-fa8fdf82db35?w=400&q=80"
+  },
+  {
+    "name": "ТЮПИ",
+    "desc": "Баранина, нохут (горох), курдюк, лук, шафран, сухая алыча",
+    "weight": "350г",
+    "price": 600,
+    "category": "soups",
+    "img": "images/tupi.png"
+  },
+  {
+    "name": "СУП ФЮШБАРА",
+    "desc": "Миниатюрные пельмешки размером с жемчужину из говядины, бульон говяжий, специи",
+    "weight": "350г",
+    "price": 600,
+    "category": "soups",
+    "img": "images/fyushbara.png"
+  },
+  {
+    "name": "БОРЩ",
+    "desc": "Говядина, свёкла, морковь, капуста, лук, перец болгарский, помидоры, картофель, специи",
+    "weight": "300г",
+    "price": 450,
+    "category": "soups",
+    "img": "https://images.unsplash.com/photo-1490645935967-10de6ba17061?w=400&q=80"
+  },
+  {
+    "name": "УХА",
+    "desc": "Семга, судак, морковь, перец болгарский, помидоры, картофель, лук, шафран, водка, специи",
+    "weight": "300г",
+    "price": 600,
+    "category": "soups",
+    "img": "images/uha_nobg.webp"
+  },
+  {
+    "name": "КРЕМ-СУП",
+    "desc": "Шампиньоны, сливки, сыр, сухарики, мята",
+    "weight": "300г",
+    "price": 600,
+    "category": "soups",
+    "img": "images/krem-sup.png"
+  },
+  {
+    "name": "ДОВГА",
+    "desc": "Нохут (горох), ассорти зелени, катык",
+    "weight": "250г",
+    "price": 300,
+    "category": "soups",
+    "img": "images/dovga.png"
+  },
+  {
+    "name": "ХАШЛАМА",
+    "desc": "Голень ягнёнка, картофель, помидоры, лук, перец болгарский, специи",
+    "weight": "350г",
+    "price": 600,
+    "category": "soups",
+    "img": "https://images.unsplash.com/photo-1558030006-450675393462?w=400&q=80"
+  },
+  {
+    "name": "БОЗБАШ ИЗ ИНДЮКА",
+    "desc": "Индюк, помидор, картофель, лук, зелень, перец болгарский, специи",
+    "weight": "350г",
+    "price": 400,
+    "category": "soups",
+    "img": "https://images.unsplash.com/photo-1603105037880-880cd4f3b5d1?w=400&q=80"
+  },
+  {
+    "name": "СУП СОЛЯНКА",
+    "desc": "Ассорти из говядины и колбасы, сметана, лимон, зелень, оливки",
+    "weight": "300г",
+    "price": 500,
+    "category": "soups",
+    "img": "https://images.unsplash.com/photo-1490645935967-10de6ba17061?w=400&q=80"
+  },
+  {
+    "name": "СУП ЛАПША НА КУРИНОМ БУЛЬОНЕ",
+    "desc": "Куриное филе, морковь, лапша, сушёная мята",
+    "weight": "300г",
+    "price": 400,
+    "category": "soups",
+    "img": "https://images.unsplash.com/photo-1604908176997-125f25cc6f3d?w=400&q=80"
+  },
+  {
+    "name": "СУП СОЛЯНКА (ХАЛЯЛЬ)",
+    "desc": "Ассорти из говядины и колбасы, сметана, лимон, зелень, оливки",
+    "weight": "300г",
+    "price": 500,
+    "category": "soups",
+    "img": "https://images.unsplash.com/photo-1476718406336-bb5a9690ee2a?w=400&q=80"
+  },
+  {
+    "name": "ЧЕЧЕВИЧНЫЙ СУП",
+    "desc": "Чечевица, лук, томатная паста, чеснок, мята, лимон",
+    "weight": "300г",
+    "price": 300,
+    "category": "soups",
+    "img": "https://images.unsplash.com/photo-1603105037880-880cd4f3b5d1?w=400&q=80"
+  },
+  {
+    "name": "ШУРПА",
+    "desc": "Говядина, лук, перец болгарский, морковь, чеснок, картофель, помидор, фасоль",
+    "weight": "300г",
+    "price": 550,
+    "category": "soups",
+    "img": "https://images.unsplash.com/photo-1490645935967-10de6ba17061?w=400&q=80"
+  },
+  {
+    "name": "СУП ХАРЧО ПО-ГРУЗИНСКИ",
+    "desc": "Говядина, рис, томатная паста, чеснок, лук, специи, ассорти зелени",
+    "weight": "450г",
+    "price": 550,
+    "category": "soups",
+    "img": "https://images.unsplash.com/photo-1476718406336-bb5a9690ee2a?w=400&q=80"
+  },
+  {
+    "name": "ТЮКА БОЗБАШ",
+    "desc": "Говядина, картофель, томатная паста, чеснок, специи",
+    "weight": "350г",
+    "price": 600,
+    "category": "soups",
+    "img": "https://images.unsplash.com/photo-1476718406336-bb5a9690ee2a?w=400&q=80"
+  },
+  {
+    "name": "КОФТА-БОЗБАШ",
+    "desc": "Говяжий фарш, лук, помидоры, томатная паста, нохут (горох), специи",
+    "weight": "350г",
+    "price": 650,
+    "category": "soups",
+    "img": "https://images.unsplash.com/photo-1490645935967-10de6ba17061?w=400&q=80"
+  },
+  {
+    "name": "БУТЛАМА",
+    "desc": "Говяжье мясо на кости, помидоры, перец болгарский, лук, чеснок, ассорти зелени, специи",
+    "weight": "350г",
+    "price": 650,
+    "category": "soups",
+    "img": "https://images.unsplash.com/photo-1544025162-d76694265947?w=400&q=80"
+  },
+  {
+    "name": "ШАШЛЫК 2 КГ",
+    "desc": "",
+    "weight": "2кг",
+    "price": 5500,
+    "category": "grill",
+    "img": "https://images.unsplash.com/photo-1546833998-877b37c2e5c6?w=400&q=80"
+  },
+  {
+    "name": "ШАШЛЫК 3 КГ",
+    "desc": "",
+    "weight": "3кг",
+    "price": 7000,
+    "category": "grill",
+    "img": "https://images.unsplash.com/photo-1558030006-450675393462?w=400&q=80"
+  },
+  {
+    "name": "ШАШЛЫК АССОРТИ ХАЛЯЛЬ 2 КГ",
+    "desc": "",
+    "weight": "2кг",
+    "price": 6500,
+    "category": "grill",
+    "img": "https://images.unsplash.com/photo-1558030006-450675393462?w=400&q=80"
+  },
+  {
+    "name": "ШАШЛЫК АССОРТИ ХАЛЯЛЬ 3 КГ",
+    "desc": "",
+    "weight": "3кг",
+    "price": 7500,
+    "category": "grill",
+    "img": "https://images.unsplash.com/photo-1555939594-58d7cb561ad1?w=400&q=80"
+  },
+  {
+    "name": "ШАШЛЫК АССОРТИ «ЗОЛОТОЙ КЛЮЧ»",
+    "desc": "Корейка баранины – 6 шт., баранина люля-кебаб – 6 шт., семга – 6 шт., индейка – 6 шт., курица домашняя – 4 шт., телятина – 6 шт., дорадо – 6 шт., овощи",
+    "weight": "",
+    "price": 12000,
+    "category": "grill",
+    "img": "https://images.unsplash.com/photo-1546833998-877b37c2e5c6?w=400&q=80"
+  },
+  {
+    "name": "КУРИНОЕ ФИЛЕ НА ШПАЖКЕ",
+    "desc": "",
+    "weight": "200г",
+    "price": 250,
+    "category": "grill",
+    "img": "https://images.unsplash.com/photo-1558030006-450675393462?w=400&q=80"
+  },
+  {
+    "name": "ЛЮЛЯ-КЕБАБ ИЗ БАРАНИНЫ",
+    "desc": "",
+    "weight": "3шт",
+    "price": 620,
+    "category": "grill",
+    "img": "https://images.unsplash.com/photo-1558030006-450675393462?w=400&q=80"
+  },
+  {
+    "name": "БАРАНИНА КОРЕЙКА",
+    "desc": "",
+    "weight": "3шт",
+    "price": 850,
+    "category": "grill",
+    "img": "https://images.unsplash.com/photo-1544025162-d76694265947?w=400&q=80"
+  },
+  {
+    "name": "БАРАНИНА МЯКОТЬ",
+    "desc": "",
+    "weight": "4шт",
+    "price": 700,
+    "category": "grill",
+    "img": "https://images.unsplash.com/photo-1544025162-d76694265947?w=400&q=80"
+  },
+  {
+    "name": "ЛЮЛЯ-КЕБАБ ИЗ ГОВЯДИНЫ",
+    "desc": "",
+    "weight": "3шт",
+    "price": 650,
+    "category": "grill",
+    "img": "https://images.unsplash.com/photo-1546833998-877b37c2e5c6?w=400&q=80"
+  },
+  {
+    "name": "БАСТУРМА ИЗ ГОВЯДИНЫ",
+    "desc": "",
+    "weight": "4шт",
+    "price": 750,
+    "category": "grill",
+    "img": "https://images.unsplash.com/photo-1555939594-58d7cb561ad1?w=400&q=80"
+  },
+  {
+    "name": "ПОЗИЦИЯ 3 ШТ",
+    "desc": "",
+    "weight": "3шт",
+    "price": 500,
+    "category": "grill",
+    "img": "https://images.unsplash.com/photo-1529692236671-f1f6cf9683ba?w=400&q=80"
+  },
+  {
+    "name": "ПОЗИЦИЯ 4 ШТ",
+    "desc": "",
+    "weight": "4шт",
+    "price": 600,
+    "category": "grill",
+    "img": "https://images.unsplash.com/photo-1529692236671-f1f6cf9683ba?w=400&q=80"
+  },
+  {
+    "name": "ЛЮЛЯ-КЕБАБ ИЗ КУРИЦЫ",
+    "desc": "",
+    "weight": "4шт",
+    "price": 450,
+    "category": "grill",
+    "img": "https://images.unsplash.com/photo-1555939594-58d7cb561ad1?w=400&q=80"
+  },
+  {
+    "name": "ШАШЛЫК ИЗ КУРИЦЫ",
+    "desc": "",
+    "weight": "3шт",
+    "price": 500,
+    "category": "grill",
+    "img": "https://images.unsplash.com/photo-1546833998-877b37c2e5c6?w=400&q=80"
+  },
+  {
+    "name": "ШАШЛЫК ИЗ ИНДЕЙКИ",
+    "desc": "",
+    "weight": "4шт",
+    "price": 600,
+    "category": "grill",
+    "img": "https://images.unsplash.com/photo-1555939594-58d7cb561ad1?w=400&q=80"
+  },
+  {
+    "name": "ШАШЛЫК ИЗ СЕМГИ",
+    "desc": "",
+    "weight": "4шт",
+    "price": 900,
+    "category": "grill",
+    "img": "https://images.unsplash.com/photo-1529692236671-f1f6cf9683ba?w=400&q=80"
+  },
+  {
+    "name": "ШАШЛЫК «ДОРАДО» НА МАНГАЛЕ",
+    "desc": "",
+    "weight": "250г",
+    "price": 1500,
+    "category": "grill",
+    "img": "https://images.unsplash.com/photo-1555939594-58d7cb561ad1?w=400&q=80"
+  },
+  {
+    "name": "ШАШЛЫК ОВОЩНОЙ",
+    "desc": "",
+    "weight": "1шт",
+    "price": 450,
+    "category": "grill",
+    "img": "https://images.unsplash.com/photo-1505253716362-afaea1d3d1af?w=400&q=80"
+  },
+  {
+    "name": "ШАШЛЫК «ГЛАДИАТОР»",
+    "desc": "Вырезка говяжья, корейка баранины, помидоры, болгарский перец, ассорти зелени, чеснок, сметана",
+    "weight": "420г",
+    "price": 1500,
+    "category": "grill",
+    "img": "https://images.unsplash.com/photo-1529692236671-f1f6cf9683ba?w=400&q=80"
+  },
+  {
+    "name": "ШАШЛЫК ИЗ ГРИБОВ",
+    "desc": "",
+    "weight": "10шт",
+    "price": 500,
+    "category": "grill",
+    "img": "https://images.unsplash.com/photo-1555939594-58d7cb561ad1?w=400&q=80"
+  },
+  {
+    "name": "СОКИ В АССОРТИМЕНТЕ",
+    "desc": "",
+    "weight": "1литр",
+    "price": 300,
+    "category": "drinks",
+    "img": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=400&q=80"
+  },
+  {
+    "name": "ВОДА «ВОЛЖАНКА»",
+    "desc": "",
+    "weight": "500мл",
+    "price": 200,
+    "category": "drinks",
+    "img": "https://images.unsplash.com/photo-1551024709-8f23befc6f87?w=400&q=80"
+  },
+  {
+    "name": "НАПАХШАРИ",
+    "desc": "",
+    "weight": "500мл",
+    "price": 250,
+    "category": "drinks",
+    "img": "https://images.unsplash.com/photo-1546833998-877b37c2e5c6?w=400&q=80"
+  },
+  {
+    "name": "КОЛА",
+    "desc": "",
+    "weight": "1литр",
+    "price": 200,
+    "category": "drinks",
+    "img": "https://images.unsplash.com/photo-1558030006-450675393462?w=400&q=80"
+  },
+  {
+    "name": "МОЛОЧНЫЙ КОКТЕЙЛЬ",
+    "desc": "",
+    "weight": "350г",
+    "price": 450,
+    "category": "drinks",
+    "img": "https://images.unsplash.com/photo-1544145945-f90425340c7e?w=400&q=80"
+  },
+  {
+    "name": "ПИВО В АССОРТИМЕНТЕ",
+    "desc": "",
+    "weight": "500мл",
+    "price": 250,
+    "category": "drinks",
+    "img": "https://images.unsplash.com/photo-1546833998-877b37c2e5c6?w=400&q=80"
+  },
+  {
+    "name": "КОМПОТ «БАТДАД»",
+    "desc": "",
+    "weight": "1литр",
+    "price": 300,
+    "category": "drinks",
+    "img": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=400&q=80"
+  },
+  {
+    "name": "ЧАЙ ЧЁРНЫЙ",
+    "desc": "",
+    "weight": "1л",
+    "price": 300,
+    "category": "drinks",
+    "img": "https://images.unsplash.com/photo-1551024709-8f23befc6f87?w=400&q=80"
+  },
+  {
+    "name": "ЧАЙ ЗЕЛЁНЫЙ",
+    "desc": "",
+    "weight": "1л",
+    "price": 300,
+    "category": "drinks",
+    "img": "https://images.unsplash.com/photo-1544145945-f90425340c7e?w=400&q=80"
+  },
+  {
+    "name": "САМОВАР 3 ЛИТРА",
+    "desc": "",
+    "weight": "3литра",
+    "price": 1500,
+    "category": "drinks",
+    "img": "https://images.unsplash.com/photo-1558030006-450675393462?w=400&q=80"
+  },
+  {
+    "name": "САМОВАР 50 ЛИТРОВ",
+    "desc": "",
+    "weight": "50литров",
+    "price": 7000,
+    "category": "drinks",
+    "img": "https://images.unsplash.com/photo-1544025162-d76694265947?w=400&q=80"
+  },
+  {
+    "name": "ЧАЙ «ЗОЛОТОЙ КЛЮЧ»",
+    "desc": "Яблоко, мёд, облепиха, чай чёрный или зелёный",
+    "weight": "1литр",
+    "price": 500,
+    "category": "drinks",
+    "img": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=400&q=80"
+  },
+  {
+    "name": "ОВОЩНОЕ АССОРТИ БАКИНСКОЕ",
+    "desc": "Бакинские огурцы, бакинские помидоры, зелень ассорти",
+    "weight": "600г",
+    "price": 700,
+    "category": "snacks",
+    "img": "https://images.unsplash.com/photo-1540420773420-3366772f4999?w=400&q=80"
+  },
+  {
+    "name": "МЯСНОЕ АССОРТИ",
+    "desc": "Карбонат (говядина, курица), говяжий язык, буженина",
+    "weight": "350г",
+    "price": 700,
+    "category": "snacks",
+    "img": "https://images.unsplash.com/photo-1544025162-d76694265947?w=400&q=80"
+  },
+  {
+    "name": "МЯСНОЕ АССОРТИ (ХАЛЯЛЬ)",
+    "desc": "Карбонат (говядина, курица), говяжий язык, буженина",
+    "weight": "350г",
+    "price": 750,
+    "category": "snacks",
+    "img": "https://images.unsplash.com/photo-1555939594-58d7cb561ad1?w=400&q=80"
+  },
+  {
+    "name": "АССОРТИ СЫРНОЕ",
+    "desc": "Мраморный сыр, моцарелла, пармезан, орех, мёд, виноград",
+    "weight": "350г",
+    "price": 750,
+    "category": "snacks",
+    "img": "https://images.unsplash.com/photo-1544025162-d76694265947?w=400&q=80"
+  },
+  {
+    "name": "БАКИНСКОЕ СОЛЕНЬЕ АССОРТИ",
+    "desc": "Огурцы, помидоры, капуста, морковь, чеснок",
+    "weight": "400г",
+    "price": 700,
+    "category": "snacks",
+    "img": "https://images.unsplash.com/photo-1546833998-877b37c2e5c6?w=400&q=80"
+  },
+  {
+    "name": "СЫР «БАКУ»",
+    "desc": "Домашний сыр брынза, орехи, виноград",
+    "weight": "350г",
+    "price": 600,
+    "category": "snacks",
+    "img": "https://images.unsplash.com/photo-1486297678162-eb2a19b0a32d?w=400&q=80"
+  },
+  {
+    "name": "РУССКАЯ ЗАКУСКА",
+    "desc": "Рыба сельдь, маринованный лук, зелень, отварная картошка",
+    "weight": "300г",
+    "price": 600,
+    "category": "snacks",
+    "img": "https://images.unsplash.com/photo-1544025162-d76694265947?w=400&q=80"
+  },
+  {
+    "name": "РЫБНОЕ АССОРТИ",
+    "desc": "Скумбрия, семга, масляная, оливки или маслины",
+    "weight": "300г",
+    "price": 900,
+    "category": "snacks",
+    "img": "https://images.unsplash.com/photo-1555939594-58d7cb561ad1?w=400&q=80"
+  },
+  {
+    "name": "РУЛЕТ ИЗ БАКЛАЖАНА",
+    "desc": "Начинка из сыра с орехами и майонезом, жареный баклажан, кунжут",
+    "weight": "8шт",
+    "price": 600,
+    "category": "snacks",
+    "img": "https://images.unsplash.com/photo-1544025162-d76694265947?w=400&q=80"
+  },
+  {
+    "name": "РУЛЕТ ИЗ СЕМГИ",
+    "desc": "Говяжий язык, лук, аджика, масло подсолнечное",
+    "weight": "6шт",
+    "price": 700,
+    "category": "snacks",
+    "img": "https://images.unsplash.com/photo-1580476262798-bddd9f4b7369?w=400&q=80"
+  },
+  {
+    "name": "ЯЗЫК ПО-КАВКАЗСКИ",
+    "desc": "Говяжий язык, лук, аджика, масло подсолнечное",
+    "weight": "250г",
+    "price": 650,
+    "category": "snacks",
+    "img": "https://images.unsplash.com/photo-1544025162-d76694265947?w=400&q=80"
+  },
+  {
+    "name": "РУЛЕТ ВЕТЧИНА",
+    "desc": "",
+    "weight": "8шт",
+    "price": 650,
+    "category": "snacks",
+    "img": "https://images.unsplash.com/photo-1555939594-58d7cb561ad1?w=400&q=80"
+  },
+  {
+    "name": "РУЛЕТ ЯЗЫК",
+    "desc": "",
+    "weight": "8шт",
+    "price": 700,
+    "category": "snacks",
+    "img": "https://images.unsplash.com/photo-1546833998-877b37c2e5c6?w=400&q=80"
+  },
+  {
+    "name": "ФРУКТОВАЯ НАРЕЗКА",
+    "desc": "",
+    "weight": "",
+    "price": 2000,
+    "category": "snacks",
+    "img": "https://images.unsplash.com/photo-1558030006-450675393462?w=400&q=80"
+  },
+  {
+    "name": "ФРУКТОВОЕ АССОРТИ",
+    "desc": "",
+    "weight": "",
+    "price": 2500,
+    "category": "snacks",
+    "img": "https://images.unsplash.com/photo-1619566636858-adf3ef46400b?w=400&q=80"
+  },
+  {
+    "name": "МЯСО ПО-ЦАРСКИ",
+    "desc": "Помидоры, говядина, грибы, сыр сулугуни",
+    "weight": "350г",
+    "price": 650,
+    "category": "hot",
+    "img": "https://images.unsplash.com/photo-1529692236671-f1f6cf9683ba?w=400&q=80"
+  },
+  {
+    "name": "МЯСО ПО-МОНАСТЫРСКИ",
+    "desc": "Куриное филе, шампиньоны, помидоры, сыр сулугуни",
+    "weight": "300г",
+    "price": 550,
+    "category": "hot",
+    "img": "https://images.unsplash.com/photo-1558030006-450675393462?w=400&q=80"
+  },
+  {
+    "name": "СТЕЙК ИЗ СВИНИНЫ",
+    "desc": "Вырезка свиная, сливочный соус, специи",
+    "weight": "300г",
+    "price": 650,
+    "category": "hot",
+    "img": "https://images.unsplash.com/photo-1555939594-58d7cb561ad1?w=400&q=80"
+  },
+  {
+    "name": "СТЕЙК «МИНЬОН»",
+    "desc": "Вырезка говяжья, сливочный соус, специи",
+    "weight": "300г",
+    "price": 800,
+    "category": "hot",
+    "img": "https://images.unsplash.com/photo-1546833998-877b37c2e5c6?w=400&q=80"
+  },
+  {
+    "name": "ЛАНГЕТ ИЗ ГОВЯДИНЫ",
+    "desc": "Говяжья вырезка, сливочный соус, специи",
+    "weight": "300г",
+    "price": 650,
+    "category": "hot",
+    "img": "https://images.unsplash.com/photo-1529692236671-f1f6cf9683ba?w=400&q=80"
+  },
+  {
+    "name": "ЛАНГЕТ ИЗ КУРИЦЫ",
+    "desc": "Куриное филе, сливочный соус, специи",
+    "weight": "300г",
+    "price": 650,
+    "category": "hot",
+    "img": "https://images.unsplash.com/photo-1598103442097-8b74394b95c6?w=400&q=80"
+  },
+  {
+    "name": "СОТЕ",
+    "desc": "Говяжья вырезка или куриное филе (на выбор), картофель, чеснок, зелень, кетчуп, перец",
+    "weight": "300г",
+    "price": 600,
+    "category": "hot",
+    "img": "https://images.unsplash.com/photo-1555939594-58d7cb561ad1?w=400&q=80"
+  },
+  {
+    "name": "ЧОБАН «ТОВУРМА»",
+    "desc": "",
+    "weight": "250г",
+    "price": 900,
+    "category": "hot",
+    "img": "https://images.unsplash.com/photo-1546833998-877b37c2e5c6?w=400&q=80"
+  },
+  {
+    "name": "СЕМГА В СЛИВОЧНО-ИКОРНОМ СОУСЕ",
+    "desc": "",
+    "weight": "250г",
+    "price": 800,
+    "category": "hot",
+    "img": "https://images.unsplash.com/photo-1519708227418-c8fd9a32b7a0?w=400&q=80"
+  },
+  {
+    "name": "СЕМГА В СЛИВОЧНО-ЛИМОННОМ СОУСЕ",
+    "desc": "",
+    "weight": "250г",
+    "price": 800,
+    "category": "hot",
+    "img": "https://images.unsplash.com/photo-1519708227418-c8fd9a32b7a0?w=400&q=80"
+  },
+  {
+    "name": "СТЕЙК СЕМГА",
+    "desc": "",
+    "weight": "250г",
+    "price": 900,
+    "category": "hot",
+    "img": "https://images.unsplash.com/photo-1546833998-877b37c2e5c6?w=400&q=80"
+  },
+  {
+    "name": "ЗАПЕЧЁННЫЕ С ОВОЩАМИ «ДОРАДО»",
+    "desc": "",
+    "weight": "400г",
+    "price": 900,
+    "category": "hot",
+    "img": "https://images.unsplash.com/photo-1529692236671-f1f6cf9683ba?w=400&q=80"
+  },
+  {
+    "name": "КРЕВЕТКИ ОТВАРНЫЕ",
+    "desc": "",
+    "weight": "150г",
+    "price": 500,
+    "category": "beer",
+    "img": "https://images.unsplash.com/photo-1534604973900-c43ab4c2e0ab?w=400&q=80"
+  },
+  {
+    "name": "КРЕВЕТКИ ЖАРЕНЫЕ",
+    "desc": "",
+    "weight": "150г",
+    "price": 650,
+    "category": "beer",
+    "img": "https://images.unsplash.com/photo-1555939594-58d7cb561ad1?w=400&q=80"
+  },
+  {
+    "name": "СЫР КОСИЧКА",
+    "desc": "",
+    "weight": "150г",
+    "price": 350,
+    "category": "beer",
+    "img": "https://images.unsplash.com/photo-1452195100486-9cc805987862?w=400&q=80"
+  },
+  {
+    "name": "ГРЕНКИ С ЧЕСНОКОМ",
+    "desc": "",
+    "weight": "8шт",
+    "price": 300,
+    "category": "beer",
+    "img": "https://images.unsplash.com/photo-1555939594-58d7cb561ad1?w=400&q=80"
+  },
+  {
+    "name": "БАРАНЬИ СЕМЕЧКИ (НА МАНГАЛЕ)",
+    "desc": "",
+    "weight": "200г",
+    "price": 500,
+    "category": "beer",
+    "img": "https://images.unsplash.com/photo-1558030006-450675393462?w=400&q=80"
+  },
+  {
+    "name": "КУРИНЫЕ КРЫЛЫШКИ (ОСТРЫЕ)",
+    "desc": "",
+    "weight": "200г",
+    "price": 400,
+    "category": "beer",
+    "img": "https://images.unsplash.com/photo-1527477396000-e27163b481c2?w=400&q=80"
+  },
+  {
+    "name": "ЧИПСЫ",
+    "desc": "",
+    "weight": "1пачка",
+    "price": 200,
+    "category": "beer",
+    "img": "https://images.unsplash.com/photo-1555939594-58d7cb561ad1?w=400&q=80"
+  },
+  {
+    "name": "ПИВНОЕ АССОРТИ",
+    "desc": "",
+    "weight": "",
+    "price": 2500,
+    "category": "beer",
+    "img": "https://images.unsplash.com/photo-1558030006-450675393462?w=400&q=80"
+  },
+  {
+    "name": "ГРЕЧЕСКИЙ САЛАТ",
+    "desc": "Огурцы, помидоры, сыр фета, базилик, перец болгарский, специи, оливковое масло, салат айсберг",
+    "weight": "300г",
+    "price": 450,
+    "category": "salads",
+    "img": "https://images.unsplash.com/photo-1546793665-c74683f339c1?w=400&q=80"
+  },
+  {
+    "name": "ЦЕЗАРЬ С КУРИЦЕЙ",
+    "desc": "Куриное филе, салат айсберг, помидоры черри, сухарики, соус «Цезарь»",
+    "weight": "300г",
+    "price": 500,
+    "category": "salads",
+    "img": "https://images.unsplash.com/photo-1505253716362-afaea1d3d1af?w=400&q=80"
+  },
+  {
+    "name": "ЦЕЗАРЬ С СЕМГОЙ",
+    "desc": "Филе семги, салат айсберг, помидоры черри, сухарики, соус «Цезарь»",
+    "weight": "300г",
+    "price": 650,
+    "category": "salads",
+    "img": "https://images.unsplash.com/photo-1546793665-c74683f339c1?w=400&q=80"
+  },
+  {
+    "name": "ЦЕЗАРЬ С КРЕВЕТКАМИ",
+    "desc": "Креветки, салат айсберг, помидоры черри, сухарики, соус «Цезарь»",
+    "weight": "300г",
+    "price": 700,
+    "category": "salads",
+    "img": "https://images.unsplash.com/photo-1505253716362-afaea1d3d1af?w=400&q=80"
+  },
+  {
+    "name": "САЛАТ «НАПОЛЕОН»",
+    "desc": "Соленые корнишоны, куриная грудка, маринованные грибы, отварные яйца, оливки, майонез",
+    "weight": "300г",
+    "price": 500,
+    "category": "salads",
+    "img": "https://images.unsplash.com/photo-1540420773420-3366772f4999?w=400&q=80"
+  },
+  {
+    "name": "МОРСКОЙ КОКТЕЙЛЬ",
+    "desc": "Коктейль из морепродуктов, шампиньоны, морковь, лук репчатый, фасоль, масло",
+    "weight": "300г",
+    "price": 650,
+    "category": "salads",
+    "img": "https://images.unsplash.com/photo-1474722883778-792e7990302f?w=400&q=80"
+  },
+  {
+    "name": "ПЕРЕПЕЛИНОЕ ГНЕЗДО",
+    "desc": "Говяжий язык, куриное филе, куриный рулет, соленые огурцы, ветчина, перепелиное яйцо, сыр, майонез",
+    "weight": "250г",
+    "price": 500,
+    "category": "salads",
+    "img": "https://images.unsplash.com/photo-1555939594-58d7cb561ad1?w=400&q=80"
+  },
+  {
+    "name": "САЛАТ «РУККОЛА»",
+    "desc": "Помидоры черри, креветки, соль, молотый черный перец, оливковое масло, бальзамический уксус, руккола",
+    "weight": "300г",
+    "price": 700,
+    "category": "salads",
+    "img": "https://images.unsplash.com/photo-1540420773420-3366772f4999?w=400&q=80"
+  },
+  {
+    "name": "УКУС ОСЬМИНОГА",
+    "desc": "Осьминог жареный, перец болгарский, помидоры черри, листья салата, оливковое масло, сок лимона",
+    "weight": "300г",
+    "price": 650,
+    "category": "salads",
+    "img": "https://images.unsplash.com/photo-1580476262798-bddd9f4b7369?w=400&q=80"
+  },
+  {
+    "name": "ВОСТОЧНАЯ СКАЗКА",
+    "desc": "Куриное филе, салат айсберг, шампиньоны, перец болгарский, имбирь, соевый соус, чеснок, кунжутные семечки",
+    "weight": "300г",
+    "price": 650,
+    "category": "salads",
+    "img": "https://images.unsplash.com/photo-1529692236671-f1f6cf9683ba?w=400&q=80"
+  },
+  {
+    "name": "КАВКАЗСКАЯ ЛЕГЕНДА",
+    "desc": "Говяжий язык, перец болгарский, орехи, помидоры черри, яйцо, чеснок, сыр сулугуни",
+    "weight": "300г",
+    "price": 650,
+    "category": "salads",
+    "img": "https://images.unsplash.com/photo-1529692236671-f1f6cf9683ba?w=400&q=80"
+  },
+  {
+    "name": "САЛАТ «ВКУСНЯШКА»",
+    "desc": "Говяжий язык, ветчина, шампиньоны, огурцы солёные, картофель, майонез",
+    "weight": "300г",
+    "price": 650,
+    "category": "salads",
+    "img": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?w=400&q=80"
+  },
+  {
+    "name": "ТЁПЛЫЙ САЛАТ С ТЕЛЯТИНОЙ",
+    "desc": "Говяжья вырезка, баклажаны, петрушка, лук зелёный, лук красный, масло подсолнечное, масло чесночное, помидоры, редис, салат айсберг, руккола",
+    "weight": "300г",
+    "price": 650,
+    "category": "salads",
+    "img": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?w=400&q=80"
+  },
+  {
+    "name": "САЛАТ «КАРМЕН»",
+    "desc": "Тигровые креветки, черри, дольки картофеля, огурцы, листья салата, чеснок, соевый соус, наршараб, кунжут",
+    "weight": "300г",
+    "price": 650,
+    "category": "salads",
+    "img": "https://images.unsplash.com/photo-1546793665-c74683f339c1?w=400&q=80"
+  },
+  {
+    "name": "САЛАТ «ТБИЛИСИ»",
+    "desc": "Говядина, перец, красная фасоль, красный лук, грецкие орехи, масло, чеснок, уксус, зелень, кунжут",
+    "weight": "300г",
+    "price": 650,
+    "category": "salads",
+    "img": "https://images.unsplash.com/photo-1505253716362-afaea1d3d1af?w=400&q=80"
+  },
+  {
+    "name": "САЛАТ «ЧЕМБЕРС»",
+    "desc": "Говяжья вырезка, шампиньоны, солёные огурцы, помидоры черри, стручковая фасоль, листья салата, соевый соус, соус наршараб",
+    "weight": "300г",
+    "price": 600,
+    "category": "salads",
+    "img": "https://images.unsplash.com/photo-1505253716362-afaea1d3d1af?w=400&q=80"
+  },
+  {
+    "name": "САЛАТ ОТ ДИРЕКТОРА РЕСТОРАНА «ЗОЛОТОЙ КЛЮЧ»",
+    "desc": "Осьминог, креветки тигровые, мидии, руккола, черри, стручковая фасоль, наршараб, сыр пармезан",
+    "weight": "300г",
+    "price": 1000,
+    "category": "salads",
+    "img": "https://images.unsplash.com/photo-1546793665-c74683f339c1?w=400&q=80"
+  },
+  {
+    "name": "ХАЧАПУРИ ПО-АДЖАРСКИ",
+    "desc": "",
+    "weight": "500г",
+    "price": 700,
+    "category": "sides",
+    "img": "https://images.unsplash.com/photo-1509440159596-0249088772ff?w=400&q=80"
+  },
+  {
+    "name": "ХАЧАПУРИ ПО-МЕГРЕЛЬСКИ",
+    "desc": "",
+    "weight": "400г",
+    "price": 700,
+    "category": "sides",
+    "img": "https://images.unsplash.com/photo-1555939594-58d7cb561ad1?w=400&q=80"
+  },
+  {
+    "name": "ПИЦЦА АССОРТИ",
+    "desc": "",
+    "weight": "1шт",
+    "price": 700,
+    "category": "sides",
+    "img": "https://images.unsplash.com/photo-1558030006-450675393462?w=400&q=80"
+  },
+  {
+    "name": "КУТАБ ИЗ СЫРА",
+    "desc": "",
+    "weight": "1шт",
+    "price": 200,
+    "category": "sides",
+    "img": "https://images.unsplash.com/photo-1452195100486-9cc805987862?w=400&q=80"
+  },
+  {
+    "name": "КУТАБ ИЗ ЗЕЛЕНИ",
+    "desc": "",
+    "weight": "1шт",
+    "price": 200,
+    "category": "sides",
+    "img": "https://images.unsplash.com/photo-1555939594-58d7cb561ad1?w=400&q=80"
+  },
+  {
+    "name": "КУТАБ ИЗ МЯСА",
+    "desc": "",
+    "weight": "1шт",
+    "price": 100,
+    "category": "sides",
+    "img": "https://images.unsplash.com/photo-1555939594-58d7cb561ad1?w=400&q=80"
+  },
+  {
+    "name": "БЛИНЧИКИ",
+    "desc": "",
+    "weight": "1шт",
+    "price": 100,
+    "category": "sides",
+    "img": "https://images.unsplash.com/photo-1558961363-fa8fdf82db35?w=400&q=80"
+  },
+  {
+    "name": "ЛЕПЁШКА",
+    "desc": "",
+    "weight": "1шт",
+    "price": 100,
+    "category": "sides",
+    "img": "https://images.unsplash.com/photo-1544025162-d76694265947?w=400&q=80"
+  },
+  {
+    "name": "ХЛЕБ",
+    "desc": "",
+    "weight": "1шт",
+    "price": 50,
+    "category": "sides",
+    "img": "https://images.unsplash.com/photo-1549931319-a545753467c8?w=400&q=80"
+  },
+  {
+    "name": "ЗАПЕЧЕННЫЕ БАКЛАЖАНЫ",
+    "desc": "",
+    "weight": "3шт",
+    "price": 550,
+    "category": "hot_starters",
+    "img": "https://images.unsplash.com/photo-1540420773420-3366772f4999?w=400&q=80"
+  },
+  {
+    "name": "ЗАПЕЧЕННЫЕ ГРИБЫ",
+    "desc": "",
+    "weight": "6шт",
+    "price": 400,
+    "category": "hot_starters",
+    "img": "https://images.unsplash.com/photo-1490645935967-10de6ba17061?w=400&q=80"
+  },
+  {
+    "name": "ЖУЛЬЕН КУРИНЫЙ",
+    "desc": "Сливки, лук репчатый, грибы шампиньоны, куриная грудка",
+    "weight": "90г",
+    "price": 250,
+    "category": "hot_starters",
+    "img": "https://images.unsplash.com/photo-1547592166-23ac45744acd?w=400&q=80"
+  },
+  {
+    "name": "ЖУЛЬЕН ГРИБНОЙ",
+    "desc": "Сливки, лук репчатый, грибы шампиньоны",
+    "weight": "90г",
+    "price": 250,
+    "category": "hot_starters",
+    "img": "https://images.unsplash.com/photo-1476718406336-bb5a9690ee2a?w=400&q=80"
+  },
+  {
+    "name": "ЖУЛЬЕН ИЗ ЯЗЫКА",
+    "desc": "Сливки, лук репчатый, грибы шампиньоны, говяжий язык",
+    "weight": "90г",
+    "price": 350,
+    "category": "hot_starters",
+    "img": "https://images.unsplash.com/photo-1547592166-23ac45744acd?w=400&q=80"
+  },
+  {
+    "name": "ЖУЛЬЕН АССОРТИ",
+    "desc": "Сливки, лук репчатый, грибы шампиньоны, куриная грудка, говяжий язык",
+    "weight": "90г",
+    "price": 300,
+    "category": "hot_starters",
+    "img": "https://images.unsplash.com/photo-1558030006-450675393462?w=400&q=80"
+  },
+  {
+    "name": "ЖУЛЬЕН «ЗОЛОТОЙ КЛЮЧ»",
+    "desc": "Сливки, лук репчатый, грибы шампиньоны, креветки тигровые, авокадо",
+    "weight": "90г",
+    "price": 500,
+    "category": "hot_starters",
+    "img": "https://images.unsplash.com/photo-1547592166-23ac45744acd?w=400&q=80"
+  },
+  {
+    "name": "ДОЛМА",
+    "desc": "Говяжий фарш, листья винограда, мята, сметана",
+    "weight": "200г",
+    "price": 500,
+    "category": "kavkaz",
+    "img": "https://images.unsplash.com/photo-1544025162-d76694265947?w=400&q=80"
+  },
+  {
+    "name": "ЖАРКОЕ В ГОРШОЧКЕ",
+    "desc": "Говяжья вырезка, морковь, лук, картофель, специи, ассорти зелени",
+    "weight": "250г",
+    "price": 600,
+    "category": "kavkaz",
+    "img": "https://images.unsplash.com/photo-1546833998-877b37c2e5c6?w=400&q=80"
+  },
+  {
+    "name": "САЖО КУРИНЫЙ",
+    "desc": "Баклажан, перец болгарский, помидор, картофель, лук, ассорти зелени, жареный лаваш, куриное мясо",
+    "weight": "1500г",
+    "price": 2500,
+    "category": "kavkaz",
+    "img": "https://images.unsplash.com/photo-1544025162-d76694265947?w=400&q=80"
+  },
+  {
+    "name": "САЖО ИЗ ГОВЯДИНЫ",
+    "desc": "Баклажан, перец болгарский, помидор, картофель, лук, ассорти зелени, жареный лаваш, говяжья нарезка",
+    "weight": "1500г",
+    "price": 3500,
+    "category": "kavkaz",
+    "img": "https://images.unsplash.com/photo-1555939594-58d7cb561ad1?w=400&q=80"
+  },
+  {
+    "name": "САЖО ИЗ ...",
+    "desc": "Баклажан, перец болгарский, помидор, картофель, лук, ассорти зелени, жареный лаваш...",
+    "weight": "1500г",
+    "price": 3000,
+    "category": "kavkaz",
+    "img": "https://images.unsplash.com/photo-1546833998-877b37c2e5c6?w=400&q=80"
+  },
+  {
+    "name": "САЖО ИЗ БАРАНИНЫ",
+    "desc": "Баклажан, перец болгарский, помидор, картофель, лук, ассорти зелени, жареный лаваш, баранина",
+    "weight": "1500г",
+    "price": 3500,
+    "category": "kavkaz",
+    "img": "https://images.unsplash.com/photo-1555939594-58d7cb561ad1?w=400&q=80"
+  },
+  {
+    "name": "САЖО АССОРТИ",
+    "desc": "Баклажан, перец болгарский, помидор, картофель, лук, ассорти зелени, жареный лаваш, мясо на выбор",
+    "weight": "2000г",
+    "price": 3500,
+    "category": "kavkaz",
+    "img": "https://images.unsplash.com/photo-1529692236671-f1f6cf9683ba?w=400&q=80"
+  },
+  {
+    "name": "САЖО АССОРТИ ХАЛЯЛЬ",
+    "desc": "Баклажан, перец болгарский, помидор, картофель, лук, ассорти зелени, жареный лаваш, мясо на выбор",
+    "weight": "2000г",
+    "price": 4000,
+    "category": "kavkaz",
+    "img": "https://images.unsplash.com/photo-1558030006-450675393462?w=400&q=80"
+  },
+  {
+    "name": "ШАХ-ПЛОВ 6 ЧЕЛ.",
+    "desc": "",
+    "weight": "6чел",
+    "price": 5000,
+    "category": "kavkaz",
+    "img": "https://images.unsplash.com/photo-1603133872878-684f208fb84b?w=400&q=80"
+  },
+  {
+    "name": "ШАХ-ПЛОВ 12 ЧЕЛ.",
+    "desc": "",
+    "weight": "12чел",
+    "price": 7000,
+    "category": "kavkaz",
+    "img": "https://images.unsplash.com/photo-1512058564366-18510be2db19?w=400&q=80"
+  },
+  {
+    "name": "ХИНКАЛ ПО-ГРУЗИНСКИ",
+    "desc": "",
+    "weight": "1шт",
+    "price": 150,
+    "category": "kavkaz",
+    "img": "https://images.unsplash.com/photo-1496116218417-1a781b1c416c?w=400&q=80"
+  }
+]
