@@ -1,0 +1,714 @@
+[
+  {
+    "name": "ОВОЩНОЕ АССОРТИ БАКИНСКОЕ",
+    "description": "Факинские огурцы, бакинские помидоры, зелень ассорти",
+    "weight": "600г",
+    "price": 700,
+    "source": "06227cd4-7f75-4979-8ee3-f2f8521ab75a.jpeg",
+    "category": "salads"
+  },
+  {
+    "name": "МЯСНОЕ АССОФЛЕИ",
+    "description": "говядина . ii",
+    "weight": "350г",
+    "price": 700,
+    "source": "06227cd4-7f75-4979-8ee3-f2f8521ab75a.jpeg",
+    "category": "hot_starters"
+  },
+  {
+    "name": "МЯСНОЕ ЯССОФЛГИ (ХАЛЯЛЬ)",
+    "description": "te Карбонат (говядина, Kypuua), говяжий язык, буженина",
+    "weight": "350г",
+    "price": 750,
+    "source": "06227cd4-7f75-4979-8ee3-f2f8521ab75a.jpeg",
+    "category": "grill"
+  },
+  {
+    "name": "АССОРЛЕИ CHIPHOE",
+    "description": "Мраморный сыр, моцарелла, пармезан, орех, мёд, виноград",
+    "weight": "350г",
+    "price": 750,
+    "source": "06227cd4-7f75-4979-8ee3-f2f8521ab75a.jpeg",
+    "category": "hot_starters"
+  },
+  {
+    "name": "БАКИНСКОЕ СОЛЁНОЕ АССОРТИ",
+    "description": "Ё Огурцы, помидоры, капуста, морковь, чеснок,",
+    "weight": "400г",
+    "price": 700,
+    "source": "06227cd4-7f75-4979-8ee3-f2f8521ab75a.jpeg",
+    "category": "salads"
+  },
+  {
+    "name": "СЫР БАКУ",
+    "description": "Е Фомашний сыр брынза, орехи, виноград",
+    "weight": "350г",
+    "price": 600,
+    "source": "06227cd4-7f75-4979-8ee3-f2f8521ab75a.jpeg",
+    "category": "hot_starters"
+  },
+  {
+    "name": "РЫБНАЯ ЗАКУСКА",
+    "description": "Е Фыба сельдь, маринованный лук, зелень, отварная картошка",
+    "weight": "300г",
+    "price": 600,
+    "source": "06227cd4-7f75-4979-8ee3-f2f8521ab75a.jpeg",
+    "category": "hot_starters"
+  },
+  {
+    "name": "ЯЗЫК ПО-КАВКАЗСКИ",
+    "description": "Е Товяжий язык, лук, аджика, масло подсолнечное",
+    "weight": "250г",
+    "price": 650,
+    "source": "06227cd4-7f75-4979-8ee3-f2f8521ab75a.jpeg",
+    "category": "grill"
+  },
+  {
+    "name": "ИЛИ",
+    "description": "Фаранина, нохут (горох) курдюк, лук, шафран, сухая алыча",
+    "weight": "350г",
+    "price": 600,
+    "source": "0d340110-4d5d-4152-9bbf-2c8b9beec17c.jpeg",
+    "category": "hot_starters"
+  },
+  {
+    "name": "СУП ПЕЛЬМЕННЫЙ",
+    "description": "Миниатюрные пельмешки размером с жемчужину из говядины,",
+    "weight": "350г",
+    "price": 600,
+    "source": "0d340110-4d5d-4152-9bbf-2c8b9beec17c.jpeg",
+    "category": "soups"
+  },
+  {
+    "name": "БОРЩ",
+    "description": "Фовядина, свёкла, морковь, Капуста, лук, перец болгарский помидоры,",
+    "weight": "300г",
+    "price": 450,
+    "source": "0d340110-4d5d-4152-9bbf-2c8b9beec17c.jpeg",
+    "category": "soups"
+  },
+  {
+    "name": "УХЯ",
+    "description": "Семга, судак, морковь, nepeu болгарский, помидоры, картофель, лук,",
+    "weight": "300г",
+    "price": 600,
+    "source": "0d340110-4d5d-4152-9bbf-2c8b9beec17c.jpeg",
+    "category": "sides"
+  },
+  {
+    "name": "OE",
+    "description": "Нохут (горох), ассорти зелени, катык, it",
+    "weight": "250г",
+    "price": 300,
+    "source": "0d340110-4d5d-4152-9bbf-2c8b9beec17c.jpeg",
+    "category": "hot_starters"
+  },
+  {
+    "name": "ХАШЛАМА",
+    "description": "олень ягнёнка, картофель, помидоры, лук, перец болгарский, специи",
+    "weight": "50г",
+    "price": 600,
+    "source": "0d340110-4d5d-4152-9bbf-2c8b9beec17c.jpeg",
+    "category": "soups"
+  },
+  {
+    "name": "ЛЮЛЯ-КЕБАБ ИЗ КУРИЦЫ",
+    "description": "WAUABIK ИЗ КУРИЦЫ Зшт 500р",
+    "weight": "4шт",
+    "price": 450,
+    "source": "1246e4d6-f54c-4a11-9ef3-356d07744a35.jpeg",
+    "category": "grill"
+  },
+  {
+    "name": "ШАШЛЫК ИЗ ИНДЕЙКИ",
+    "description": "",
+    "weight": "4шт",
+    "price": 600,
+    "source": "1246e4d6-f54c-4a11-9ef3-356d07744a35.jpeg",
+    "category": "grill"
+  },
+  {
+    "name": "ШАШЛЫК ИЗ СЕМГИ",
+    "description": "",
+    "weight": "4шт",
+    "price": 900,
+    "source": "1246e4d6-f54c-4a11-9ef3-356d07744a35.jpeg",
+    "category": "grill"
+  },
+  {
+    "name": "ШАШЛЫК \"СОФА\" НА МАНГАЛЕ",
+    "description": "WAULALIK ОВОЩНОЙ tun (750.",
+    "weight": "250г",
+    "price": 1500,
+    "source": "1246e4d6-f54c-4a11-9ef3-356d07744a35.jpeg",
+    "category": "grill"
+  },
+  {
+    "name": "ШАШЛЫК ГОВЯЖИЙ",
+    "description": "Buipeara говяжья, Kopelixg баранины, помидоры, Borzapcxuii перем",
+    "weight": "420г",
+    "price": 1500,
+    "source": "1246e4d6-f54c-4a11-9ef3-356d07744a35.jpeg",
+    "category": "grill"
+  },
+  {
+    "name": "ЧЕБУРЕКИ",
+    "description": "",
+    "weight": "200г",
+    "price": 500,
+    "source": "1dec9d13-4559-49bd-8437-47eb972955bd.jpeg",
+    "category": "starters"
+  },
+  {
+    "name": "ЧИЗКЕЙК",
+    "description": "МОРОЖЕНОЕ (ЯССОФЛЕИ) р",
+    "weight": "150г",
+    "price": 300,
+    "source": "1dec9d13-4559-49bd-8437-47eb972955bd.jpeg",
+    "category": "starters"
+  },
+  {
+    "name": "МАСО ПО-АФСКИ",
+    "description": "'Ломидоры, говядина, грибы, сыр сулугуни",
+    "weight": "350г",
+    "price": 650,
+    "source": "229859ac-8aab-4bd3-b4ae-1a947fa71fb1.jpeg",
+    "category": "grill"
+  },
+  {
+    "name": "МАСО ПО-МОЖЯСЛРЫФСКИ",
+    "description": "Куриное филе, шампиньоны, помидоры, сыр сулугуни",
+    "weight": "300г",
+    "price": 550,
+    "source": "229859ac-8aab-4bd3-b4ae-1a947fa71fb1.jpeg",
+    "category": "grill"
+  },
+  {
+    "name": "ШАШЛЫК ИЗ СВИНИНЫ",
+    "description": "Фырезка свиная, сливочный соуб, специи",
+    "weight": "300г",
+    "price": 650,
+    "source": "229859ac-8aab-4bd3-b4ae-1a947fa71fb1.jpeg",
+    "category": "grill"
+  },
+  {
+    "name": "СТЕЙК МЯСНОЙ",
+    "description": "Фырезка говяжья, сливочный соус, специи",
+    "weight": "300г",
+    "price": 800,
+    "source": "229859ac-8aab-4bd3-b4ae-1a947fa71fb1.jpeg",
+    "category": "grill"
+  },
+  {
+    "name": "СТЕЙК ИЗ ГОВЯДИНЫ",
+    "description": "Говяжья вырезка, сливочный соус, специи",
+    "weight": "300г",
+    "price": 650,
+    "source": "229859ac-8aab-4bd3-b4ae-1a947fa71fb1.jpeg",
+    "category": "grill"
+  },
+  {
+    "name": "СТЕЙК ИЗ КУРИЦЫ",
+    "description": "Куриное филе, сливочный соус, специи",
+    "weight": "300г",
+    "price": 650,
+    "source": "229859ac-8aab-4bd3-b4ae-1a947fa71fb1.jpeg",
+    "category": "grill"
+  },
+  {
+    "name": "СТЕЙК",
+    "description": "Tosaxpa вырезка или куриное филе (на выбор картофель, чеснок,",
+    "weight": "400г",
+    "price": 600,
+    "source": "229859ac-8aab-4bd3-b4ae-1a947fa71fb1.jpeg",
+    "category": "grill"
+  },
+  {
+    "name": "СТЕЙК ГОВЯЖИЙ",
+    "description": "CEMTA B СЛИВОЧНО ИКОФНОМ СОУСЕ 2502 800р",
+    "weight": "250г",
+    "price": 900,
+    "source": "229859ac-8aab-4bd3-b4ae-1a947fa71fb1.jpeg",
+    "category": "grill"
+  },
+  {
+    "name": "СТЕЙК В СЛИВОЧНО-ЛИМОННОМ СОУСЕ",
+    "description": "СЛЕЙКОЕМТЯ аз",
+    "weight": "250г",
+    "price": 800,
+    "source": "229859ac-8aab-4bd3-b4ae-1a947fa71fb1.jpeg",
+    "category": "grill"
+  },
+  {
+    "name": "] UT SKE",
+    "description": "ULAULABIK АССОФЛЕИ ХАЛЯЛЬ 2x¢ 6500p",
+    "weight": "2г",
+    "price": 7000,
+    "source": "3cdaadc1-3f3e-467a-a9bc-12cd5f9e3155.jpeg",
+    "category": "grill"
+  },
+  {
+    "name": "КОФИННОЕ ФИЛЕ HA ШЛЯЖКЕ",
+    "description": "",
+    "weight": "200г",
+    "price": 250,
+    "source": "3cdaadc1-3f3e-467a-a9bc-12cd5f9e3155.jpeg",
+    "category": "hot_starters"
+  },
+  {
+    "name": "КРЕВЕТКИ ОЛВЯФИЫЕ",
+    "description": "",
+    "weight": "150г",
+    "price": 500,
+    "source": "52de1cc1-8da8-416d-93e4-35190187e7c9.jpeg",
+    "category": "starters"
+  },
+  {
+    "name": "КФЕВЕШКИ ЖАФЕНЫЕ",
+    "description": "",
+    "weight": "150г",
+    "price": 650,
+    "source": "52de1cc1-8da8-416d-93e4-35190187e7c9.jpeg",
+    "category": "hot_starters"
+  },
+  {
+    "name": "CLIP KOCUUKA",
+    "description": "",
+    "weight": "150г",
+    "price": 350,
+    "source": "52de1cc1-8da8-416d-93e4-35190187e7c9.jpeg",
+    "category": "hot_starters"
+  },
+  {
+    "name": "ТФЕНКИ С ЧЕСНОКОМ",
+    "description": "",
+    "weight": "8 шт",
+    "price": 300,
+    "source": "52de1cc1-8da8-416d-93e4-35190187e7c9.jpeg",
+    "category": "hot_starters"
+  },
+  {
+    "name": "ФЯФАНЬИ СЕМЕЧКИ (НЯ МЯНТАЛЕ)",
+    "description": "",
+    "weight": "200г",
+    "price": 500,
+    "source": "52de1cc1-8da8-416d-93e4-35190187e7c9.jpeg",
+    "category": "starters"
+  },
+  {
+    "name": "КУРИНЫЕ КРЫЛЬИШИКИ (ОСПРЫЕ)",
+    "description": "LYTICLI 1 пачка 200p",
+    "weight": "200г",
+    "price": 400,
+    "source": "52de1cc1-8da8-416d-93e4-35190187e7c9.jpeg",
+    "category": "hot_starters"
+  },
+  {
+    "name": "СОКИ АССОРЛЕИМЕНТЕ",
+    "description": "BODA «BOAKAHKA» 500 ma 200p",
+    "weight": "1 литр",
+    "price": 300,
+    "source": "7b392def-f812-44c2-a5bc-fca7390f3c0e.jpeg",
+    "category": "drinks"
+  },
+  {
+    "name": "КОЛЯ",
+    "description": "Молочный КОКЛЕЕЯЛЬ 350 ep 450p",
+    "weight": "1 литр",
+    "price": 200,
+    "source": "7b392def-f812-44c2-a5bc-fca7390f3c0e.jpeg",
+    "category": "drinks"
+  },
+  {
+    "name": "ИВО B АССОРЛИСМЕНТЕ 500",
+    "description": "KOMILOII BATDAD» 1 aump 300p",
+    "weight": "0г",
+    "price": 250,
+    "source": "7b392def-f812-44c2-a5bc-fca7390f3c0e.jpeg",
+    "category": "hot_starters"
+  },
+  {
+    "name": "YA LEPHEIN",
+    "description": "",
+    "weight": "14г",
+    "price": 300,
+    "source": "7b392def-f812-44c2-a5bc-fca7390f3c0e.jpeg",
+    "category": "hot_starters"
+  },
+  {
+    "name": "ЧЯЙЗЕЛЕНЫЯ",
+    "description": "CAMOBAP 3.aumpa 1500p 4",
+    "weight": "14г",
+    "price": 300,
+    "source": "7b392def-f812-44c2-a5bc-fca7390f3c0e.jpeg",
+    "category": "drinks"
+  },
+  {
+    "name": "LA «ЗОЛОТОЙ КЛЮЧ",
+    "description": "_Яблоко, мед, облепихи, чай черный или зеленый",
+    "weight": "1 литр",
+    "price": 500,
+    "source": "7b392def-f812-44c2-a5bc-fca7390f3c0e.jpeg",
+    "category": "drinks"
+  },
+  {
+    "name": "СОЛЯНКА",
+    "description": "a Accopmu из говядины и Колбасы, сметана, лимон, зелень, оливки",
+    "weight": "300г",
+    "price": 500,
+    "source": "7b61537d-f52d-4c98-b0a0-faf7b873be0f.jpeg",
+    "category": "soups"
+  },
+  {
+    "name": "СУТЛЯЧА НА КУРИНОМ БУЛЬОНЕ",
+    "description": "Куриное филе, морковь, лапша, сушёная мята",
+    "weight": "300г",
+    "price": 400,
+    "source": "7b61537d-f52d-4c98-b0a0-faf7b873be0f.jpeg",
+    "category": "soups"
+  },
+  {
+    "name": "СУП СОЛЯНКА (ХАЛЯЛЬ)",
+    "description": "E Ассорти из говядины и колбасы, сметана, лимон, зелень, оливки",
+    "weight": "300г",
+    "price": 500,
+    "source": "7b61537d-f52d-4c98-b0a0-faf7b873be0f.jpeg",
+    "category": "soups"
+  },
+  {
+    "name": "ЧЕЧЕВИЧНЫЙ СУП",
+    "description": "“Чечевица, лук, томатная паста, чеснок, мята, лимон.",
+    "weight": "300г",
+    "price": 300,
+    "source": "7b61537d-f52d-4c98-b0a0-faf7b873be0f.jpeg",
+    "category": "soups"
+  },
+  {
+    "name": "ХУРМА",
+    "description": "Говядина, лук, перец болгарский, морковь чеснок, картофель,",
+    "weight": "300г",
+    "price": 550,
+    "source": "7b61537d-f52d-4c98-b0a0-faf7b873be0f.jpeg",
+    "category": "soups"
+  },
+  {
+    "name": "СУП ХЯФЧО ПО-РУЗИНСКИ",
+    "description": "Товядина, рис, томатная паста, чеснок, лук, специи,",
+    "weight": "450г",
+    "price": 550,
+    "source": "7b61537d-f52d-4c98-b0a0-faf7b873be0f.jpeg",
+    "category": "soups"
+  },
+  {
+    "name": "ШУРПА",
+    "description": "Фовядина, картофель, томатная паста, чеснок, специи",
+    "weight": "350г",
+    "price": 600,
+    "source": "7b61537d-f52d-4c98-b0a0-faf7b873be0f.jpeg",
+    "category": "soups"
+  },
+  {
+    "name": "КОЙМАШ-БОЗБАШ",
+    "description": "Фовяжий фарш, лук, помидоры, томатная паста,",
+    "weight": "350г",
+    "price": 650,
+    "source": "7b61537d-f52d-4c98-b0a0-faf7b873be0f.jpeg",
+    "category": "sides"
+  },
+  {
+    "name": "БУЗБАШ",
+    "description": "Товяжье мясо на кости, помидоры, перец болгарский,",
+    "weight": "350г",
+    "price": 650,
+    "source": "7b61537d-f52d-4c98-b0a0-faf7b873be0f.jpeg",
+    "category": "soups"
+  },
+  {
+    "name": "КРЕВЕТКИ ОШВЯЕНЫЕ",
+    "description": "",
+    "weight": "150г",
+    "price": 500,
+    "source": "7e4a5020-8ab5-4cbe-b488-b579c86c1f42.jpeg",
+    "category": "starters"
+  },
+  {
+    "name": "КФБВЕШКИ ЖАФЕНЫЕ",
+    "description": "",
+    "weight": "150г",
+    "price": 650,
+    "source": "7e4a5020-8ab5-4cbe-b488-b579c86c1f42.jpeg",
+    "category": "hot_starters"
+  },
+  {
+    "name": "СЫФКОСИЧКЯ",
+    "description": "",
+    "weight": "150г",
+    "price": 350,
+    "source": "7e4a5020-8ab5-4cbe-b488-b579c86c1f42.jpeg",
+    "category": "starters"
+  },
+  {
+    "name": "БАФАМЬИСЕМЕЧКИ (HA МЯНТАЛЕ)",
+    "description": "",
+    "weight": "200г",
+    "price": 500,
+    "source": "7e4a5020-8ab5-4cbe-b488-b579c86c1f42.jpeg",
+    "category": "starters"
+  },
+  {
+    "name": "КУРИНЫЕ KPLIABIULKH (ОСЛЕРЫЕ)",
+    "description": "«Сы 1 nawxa 200p",
+    "weight": "200г",
+    "price": 400,
+    "source": "7e4a5020-8ab5-4cbe-b488-b579c86c1f42.jpeg",
+    "category": "hot_starters"
+  },
+  {
+    "name": "ТВЕЧЕСКИЯ САЛЯТГ",
+    "description": "Огуриы, помидоры, сыр фета, базилик, перец болгарский, специи, H",
+    "weight": "300г",
+    "price": 450,
+    "source": "888512a8-921e-4466-ac4c-353a31dc6e75.jpeg",
+    "category": "salads"
+  },
+  {
+    "name": "ЗВЕЗДА С СЕМГОЙ",
+    "description": "Филе семги, салат айсберг, помидоры черри, сухарики, соус «Цезарь» :",
+    "weight": "300г",
+    "price": 650,
+    "source": "888512a8-921e-4466-ac4c-353a31dc6e75.jpeg",
+    "category": "salads"
+  },
+  {
+    "name": "ЗВЕЗДА С КРЕВЕТКАМИ",
+    "description": "Креветки, салат айсберг, помидоры черри, сухарики, соус «Цезарь» i",
+    "weight": "500г",
+    "price": 700,
+    "source": "888512a8-921e-4466-ac4c-353a31dc6e75.jpeg",
+    "category": "salads"
+  },
+  {
+    "name": "CANASTIE HATIOAEOH”",
+    "description": "Соленые корнишоны, куриная грудка, маринованные грибы,",
+    "weight": "300г",
+    "price": 500,
+    "source": "888512a8-921e-4466-ac4c-353a31dc6e75.jpeg",
+    "category": "hot_starters"
+  },
+  {
+    "name": "МОРСКОЙ КОКТЕЙЛЬ",
+    "description": "Коктейль из морепродуктов, шампиньоны, морковь, i",
+    "weight": "300г",
+    "price": 650,
+    "source": "888512a8-921e-4466-ac4c-353a31dc6e75.jpeg",
+    "category": "hot_starters"
+  },
+  {
+    "name": "ЗВЕЗДНОЕ НЕБО",
+    "description": "Товяжий язык, куриное филе, куриный рулет, соленые огурцы",
+    "weight": "250г",
+    "price": 500,
+    "source": "888512a8-921e-4466-ac4c-353a31dc6e75.jpeg",
+    "category": "grill"
+  },
+  {
+    "name": "САЛАТ \"РУКОЛЛА\"",
+    "description": ": Помидоры черри, креветки, соль ‘молотый черный перец,",
+    "weight": "300г",
+    "price": 700,
+    "source": "888512a8-921e-4466-ac4c-353a31dc6e75.jpeg",
+    "category": "salads"
+  },
+  {
+    "name": "ЗАКУСКА ОСЬМИНОГА",
+    "description": "Осьминог жаренный, перец болгарский помидоры черри,",
+    "weight": "300г",
+    "price": 650,
+    "source": "b454dda1-07b3-4bff-9dd5-34f4cad7f296.jpeg",
+    "category": "hot_starters"
+  },
+  {
+    "name": "ВОСЬМОЙ СКАЗКА",
+    "description": "Куриное филе, салат айсберг, шампиньоны, перец болгарский,",
+    "weight": "300г",
+    "price": 650,
+    "source": "b454dda1-07b3-4bff-9dd5-34f4cad7f296.jpeg",
+    "category": "salads"
+  },
+  {
+    "name": "КАВКАЗСКАЯ ЛЕГЕНДА",
+    "description": "Фовяжий язык, перец болгарский, орехи, помидоры черри,",
+    "weight": "300г",
+    "price": 650,
+    "source": "b454dda1-07b3-4bff-9dd5-34f4cad7f296.jpeg",
+    "category": "grill"
+  },
+  {
+    "name": "САЛАТ \"ВКУСНЯШКА\"",
+    "description": "Фовяжий язык, ветчина, шампиньоны, огурцы солёные,",
+    "weight": "300г",
+    "price": 650,
+    "source": "b454dda1-07b3-4bff-9dd5-34f4cad7f296.jpeg",
+    "category": "salads"
+  },
+  {
+    "name": "БОЛЬШОЙ САЛАТ С ЛОЖОЧКОЙ",
+    "description": "Фовяжья вырезка, баклажаны, петрушка, хуклзелёный, луккрасный",
+    "weight": "300г",
+    "price": 650,
+    "source": "b454dda1-07b3-4bff-9dd5-34f4cad7f296.jpeg",
+    "category": "salads"
+  },
+  {
+    "name": "САЛАТ \"КАВКАЗ\"",
+    "description": "Tlueposie креветки, черри, дольки картофеля, огурцы, листья салата,",
+    "weight": "300г",
+    "price": 650,
+    "source": "b454dda1-07b3-4bff-9dd5-34f4cad7f296.jpeg",
+    "category": "salads"
+  },
+  {
+    "name": "САЛАТ СИБИРСКИЙ",
+    "description": "Toenduna, переи, красная фасоль, красный лук, грецкие орехи,",
+    "weight": "300г",
+    "price": 650,
+    "source": "b454dda1-07b3-4bff-9dd5-34f4cad7f296.jpeg",
+    "category": "salads"
+  },
+  {
+    "name": "САЛАТ \"ШЕФ\"",
+    "description": "Товяжря вырезка, шампиньоны, солёные огурцы, помидоры черри,",
+    "weight": "300г",
+    "price": 600,
+    "source": "b454dda1-07b3-4bff-9dd5-34f4cad7f296.jpeg",
+    "category": "salads"
+  },
+  {
+    "name": "ШЕФ-ПОВАРА \"ЗОЛОТОЙ КЛЮЧ\"",
+    "description": "сьминог, креветки тигровые, мидии, руккола, черри, ст с",
+    "weight": "300г",
+    "price": 1000,
+    "source": "b454dda1-07b3-4bff-9dd5-34f4cad7f296.jpeg",
+    "category": "starters"
+  },
+  {
+    "name": "ХАЛАТЫ ПО-АФГАНСКИ",
+    "description": "",
+    "weight": "500г",
+    "price": 700,
+    "source": "b575b5fd-ce6d-4cc2-bf65-eff5cb0f1c36.jpeg",
+    "category": "sides"
+  },
+  {
+    "name": "ХАЛАТЫ ПО-МЕТФЕЛЬСКИ",
+    "description": "THUUA ACCOPITII Ae",
+    "weight": "400г",
+    "price": 700,
+    "source": "b575b5fd-ce6d-4cc2-bf65-eff5cb0f1c36.jpeg",
+    "category": "sides"
+  },
+  {
+    "name": "ЛЕЛЁТИКЯ",
+    "description": "",
+    "weight": "1шт",
+    "price": 100,
+    "source": "b575b5fd-ce6d-4cc2-bf65-eff5cb0f1c36.jpeg",
+    "category": "sides"
+  },
+  {
+    "name": "ХЛЕБ",
+    "description": "",
+    "weight": "1шт",
+    "price": 50,
+    "source": "b575b5fd-ce6d-4cc2-bf65-eff5cb0f1c36.jpeg",
+    "category": "sides"
+  },
+  {
+    "name": "ЖУЛЬЕН ГРИБНОЙ",
+    "description": "Сливки, лук репчатый, грибы шампиньоны a",
+    "weight": "90г",
+    "price": 250,
+    "source": "c3887ec2-2c8e-4d63-80b3-335f09673415.jpeg",
+    "category": "hot_starters"
+  },
+  {
+    "name": "ЖУЛЬЕН ИЗ ЯЗЫКА",
+    "description": "(Сливки, лук репчатый, грибы шампиньоны, говяжий язык, Е",
+    "weight": "90г",
+    "price": 350,
+    "source": "c3887ec2-2c8e-4d63-80b3-335f09673415.jpeg",
+    "category": "grill"
+  },
+  {
+    "name": "ЖУЛЬЕН АССОРТИ",
+    "description": "Сливки, лук. репчатый, грибы шампиньоны, куриная грудка, говяжий язык, =",
+    "weight": "90г",
+    "price": 300,
+    "source": "c3887ec2-2c8e-4d63-80b3-335f09673415.jpeg",
+    "category": "grill"
+  },
+  {
+    "name": "ЖУЛЬЕН КУРИНЫЙ",
+    "description": "Сливки, лук репчатый, грибы шампиньоны, куриная грудка",
+    "weight": "90г",
+    "price": 250,
+    "source": "c3b8852b-5ced-4f4f-8767-323d1d7e5a2d.jpeg",
+    "category": "hot_starters"
+  },
+  {
+    "name": "ЖАРЕНОЕ В ГОФОШКЕ",
+    "description": "Фовяжья вырезка, морковь, лук, картофель специи, ассорти зелени",
+    "weight": "250г",
+    "price": 600,
+    "source": "dec16e79-7578-4637-8c05-e64b39b67e7b.jpeg",
+    "category": "sides"
+  },
+  {
+    "name": "ЧАЙХАНА КУРИНЫЙ",
+    "description": "Факлажан, переи болгарский, помидор, картофель, лук,",
+    "weight": "1500г",
+    "price": 2500,
+    "source": "dec16e79-7578-4637-8c05-e64b39b67e7b.jpeg",
+    "category": "drinks"
+  },
+  {
+    "name": "ЧАЙХАНА ИЗ ГОВЯДИНЫ",
+    "description": "Баклажан, перец болгарский, помидор, картофель, лукь .",
+    "weight": "1500г",
+    "price": 3500,
+    "source": "dec16e79-7578-4637-8c05-e64b39b67e7b.jpeg",
+    "category": "drinks"
+  },
+  {
+    "name": "ЧАЙХАНА",
+    "description": "Факлажан, Nepey vere; Кий помидор, картофель, лукь р",
+    "weight": "1500г",
+    "price": 3000,
+    "source": "dec16e79-7578-4637-8c05-e64b39b67e7b.jpeg",
+    "category": "drinks"
+  },
+  {
+    "name": "ЧАЙХАНА ИЗ БАРАНИНЫ",
+    "description": "Факлажен, переи болгарский помидор, картофель, лук,",
+    "weight": "1500г",
+    "price": 3500,
+    "source": "dec16e79-7578-4637-8c05-e64b39b67e7b.jpeg",
+    "category": "drinks"
+  },
+  {
+    "name": "ЧАЙХАНА АССОРТИ",
+    "description": "Факлажен, nepey болгарский, помидор, картофель, лук,",
+    "weight": "2000г",
+    "price": 3500,
+    "source": "dec16e79-7578-4637-8c05-e64b39b67e7b.jpeg",
+    "category": "drinks"
+  },
+  {
+    "name": "ЧАЙХАНА АССОФЛЕИ ХАЛЯЛЬ",
+    "description": "Факлажен, nepey, болгарский, помидор, картофель, лукь",
+    "weight": "2000г",
+    "price": 4000,
+    "source": "dec16e79-7578-4637-8c05-e64b39b67e7b.jpeg",
+    "category": "grill"
+  }
+]
