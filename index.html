@@ -171,71 +171,99 @@
     display: flex;
     position: relative;
     min-height: 110px;
-    transition: transform .2s, box-shadow .2s;
+    transition: all .3s cubic-bezier(0.4, 0, 0.2, 1);
     cursor: pointer;
     border: 1px solid rgba(196,162,101,0.15);
   }
 
   .menu-card:hover {
-    transform: translateY(-2px);
-    box-shadow: 0 6px 24px rgba(0,0,0,0.1);
+    transform: translateY(-3px);
+    box-shadow: 0 8px 32px rgba(80,60,30,0.15);
+    border-color: rgba(196,162,101,0.3);
   }
 
   .menu-card-info {
     flex: 1;
-    padding: 12px 14px;
+    padding: 14px 16px;
     display: flex;
     flex-direction: column;
     justify-content: space-between;
     min-width: 0;
     position: relative;
     z-index: 2;
+    border-left: 3px solid transparent;
+    border-image: linear-gradient(180deg, var(--gold) 0%, var(--gold-dark) 100%) 1;
   }
 
   .menu-card-name {
     font-family: 'Playfair Display', serif;
-    font-size: 15px;
+    font-size: 14px;
     font-weight: 700;
-    color: #2A2218;
+    color: var(--green-dark);
     text-transform: uppercase;
-    line-height: 1.2;
-    margin-bottom: 4px;
-    letter-spacing: 0.3px;
+    line-height: 1.25;
+    margin-bottom: 6px;
+    letter-spacing: 0.5px;
+    position: relative;
+    padding-bottom: 6px;
+  }
+
+  .menu-card-name::after {
+    content: '';
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 30px;
+    height: 2px;
+    background: linear-gradient(90deg, var(--gold), transparent);
+    border-radius: 1px;
   }
 
   .menu-card-desc {
     font-size: 11px;
     font-weight: 400;
-    color: #7A6E5E;
-    line-height: 1.4;
-    margin-bottom: 6px;
+    color: var(--text-muted);
+    line-height: 1.5;
+    margin-bottom: 8px;
     display: -webkit-box;
-    -webkit-line-clamp: 4;
+    -webkit-line-clamp: 3;
     -webkit-box-orient: vertical;
     overflow: hidden;
+    font-style: italic;
+    letter-spacing: 0.2px;
   }
 
   .menu-card-bottom {
     display: flex;
-    align-items: center;
+    align-items: baseline;
+    gap: 8px;
+    margin-top: auto;
   }
 
   .menu-card-price {
     font-family: 'Playfair Display', serif;
-    font-size: 18px;
-    font-weight: 700;
-    color: #2A2218;
+    font-size: 20px;
+    font-weight: 900;
+    color: var(--gold-dark);
+    letter-spacing: 0.5px;
+    text-shadow: 0 1px 2px rgba(168,139,74,0.15);
   }
 
   .menu-card-price span {
-    font-size: 14px;
+    font-size: 13px;
+    font-weight: 400;
+    color: var(--text-muted);
+    letter-spacing: 0;
   }
 
   .menu-card-weight {
-    font-size: 12px;
+    font-size: 11px;
     color: var(--text-muted);
-    margin-right: 10px;
-    font-weight: 400;
+    font-weight: 500;
+    background: rgba(196,162,101,0.12);
+    padding: 2px 8px;
+    border-radius: 10px;
+    letter-spacing: 0.3px;
   }
 
   .menu-card-img {
