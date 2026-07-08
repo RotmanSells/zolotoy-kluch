@@ -1,0 +1,354 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta charset="UTF-8">
+<title>Договор подряда на создание сайта</title>
+<style>
+  * { box-sizing: border-box; }
+  body {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 14px;
+    line-height: 1.5;
+    max-width: 210mm;
+    margin: 20px auto;
+    padding: 20mm 15mm;
+    background: #fff;
+    color: #000;
+  }
+  h1 { text-align: center; font-size: 16px; margin-bottom: 5px; }
+  h2 { font-size: 14px; margin: 15px 0 8px; }
+  h3 { font-size: 14px; margin: 10px 0 5px; }
+  .header { text-align: center; margin-bottom: 20px; }
+  .editable {
+    background: #fffbe6;
+    border-bottom: 1px dashed #999;
+    padding: 1px 4px;
+    outline: none;
+  }
+  .editable:focus { background: #fff3b0; }
+  p { margin: 6px 0; text-align: justify; }
+  .signatures {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 40px;
+    gap: 20px;
+  }
+  .sign-block {
+    flex: 1;
+    border-top: 1px solid #000;
+    padding-top: 10px;
+  }
+  canvas {
+    border: 1px solid #888;
+    background: #fff;
+    cursor: crosshair;
+    display: block;
+    margin-top: 5px;
+    width: 100%;
+    height: 80px;
+  }
+  .controls {
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+    margin-top: 40px;
+    padding: 20px 0;
+  }
+  button {
+    padding: 14px 28px;
+    font-size: 16px;
+    cursor: pointer;
+    border: none;
+    border-radius: 6px;
+    font-weight: bold;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.2);
+  }
+  .btn-send { background: #0088cc; color: #fff; }
+  .btn-clear { background: #dc3545; color: #fff; }
+  .hint {
+    background: #e7f3ff;
+    border-left: 4px solid #007bff;
+    padding: 10px 15px;
+    margin-bottom: 20px;
+    font-family: Arial, sans-serif;
+    font-size: 13px;
+  }
+  
+  @media print {
+    body { margin: 0; padding: 15mm; max-width: none; }
+    .controls, .hint { display: none !important; }
+    .editable { background: none; border-bottom: none; }
+    canvas { border: none; }
+    @page { size: A4; margin: 15mm; }
+  }
+</style>
+</head>
+<body>
+
+<div class="hint">
+  💡 <b>Подсказка:</b> Кликните по жёлтым полям, чтобы вписать свои данные. Распишитесь в полях ниже мышкой или пальцем. После заполнения нажмите «Отправить исполнителю».
+</div>
+
+<div class="header">
+  <h1>ДОГОВОР ПОДРЯДА<br>НА ВЫПОЛНЕНИЕ РАБОТ ПО СОЗДАНИЮ ВЕБ-САЙТА (PWA)</h1>
+  <p>г. <span class="editable" contenteditable="true">Краснодар</span> &nbsp;|&nbsp; «<span class="editable" contenteditable="true">08</span>» <span class="editable" contenteditable="true">июля</span> <span class="editable" contenteditable="true">2026</span> г.</p>
+</div>
+
+<p><b><span class="editable" contenteditable="true">ИНДИВИДУАЛЬНЫЙ ПРЕДПРИНИМАТЕЛЬ РОТМАН СЕРГЕЙ СЕРГЕЕВИЧ</span></b>, именуемый в дальнейшем <b>«исполнитель»</b>, с одной стороны, и<br>
+<b><span class="editable" contenteditable="true">[Название организации клиента или ФИО ИП]</span></b>, именуемый в дальнейшем <b>«заказчик»</b>, с другой стороны,<br>
+вместе именуемые «стороны», заключили настоящий договор о нижеследующем:</p>
+
+<h2>1. ПРЕДМЕТ ДОГОВОРА</h2>
+<p>1.1. исполнитель обязуется по заданию заказчик разработать и передать в собственность заказчик веб-сайт в формате PWA (Progressive Web App) для пиццерии (далее — «сайт»), а заказчик обязуется принять и оплатить выполненную работу.</p>
+<p>1.2. Подробный функционал, требования к дизайну и технические характеристики сайта описаны в Техническом задании (Приложение №1), которое является неотъемлемой частью настоящего договора.</p>
+<p>1.3. Основные функциональные требования:</p>
+<ul>
+  <li>Разработка индивидуального дизайна с нуля.</li>
+  <li>Реализация PWA-функционала (установка на смартфон как приложение).</li>
+  <li>Каталог товаров (меню): фото, название, описание, цена.</li>
+  <li>Корзина и оформление заказа <b>исключительно на самовывоз</b> (функция доставки не разрабатывается).</li>
+  <li>Интеграция оплаты через систему быстрых платежей (СБП). Логика работы: <b>строго 100% предоплата</b> заказа, возможность оплаты «позже» или при получении исключена.</li>
+  <li>Регистрация и авторизация пользователей: по номеру телефона и имени.</li>
+  <li>Административная панель: управление меню (цены, описания, названия, фото), просмотр аналитики выручки в виде графика, просмотр статистики самых часто заказываемых блюд.</li>
+</ul>
+
+<h2>2. СРОКИ ВЫПОЛНЕНИЯ РАБОТ</h2>
+<p>2.1. Общий срок выполнения работ по настоящему договору составляет <b>14 (четырнадцать) календарных дней</b>.</p>
+<p>2.2. Срок исчисляется со дня поступления исполнителю предоплаты (аванса) в размере 50% от общей стоимости работ, а также получения от заказчик всех необходимых материалов (фотографий, текстов, реквизитов для подключения СБП).</p>
+<p>2.3. В случае задержки предоставления материалов или согласования этапов со стороны заказчик, срок выполнения работ продлевается соразмерно времени задержки.</p>
+
+<h2>3. СТОИМОСТЬ РАБОТ И ПОРЯДОК РАСЧЕТОВ</h2>
+<p>3.1. Общая стоимость работ по настоящему договору составляет <b><span class="editable" contenteditable="true">20 000</span> (<span class="editable" contenteditable="true">Двадцать тысяч</span>) рублей</b>. НДС не облагается.</p>
+<p>3.2. Оплата производится в два этапа:</p>
+<ul>
+  <li><b>Аванс (предоплата):</b> 50% от стоимости, то есть <span class="editable" contenteditable="true">10 000</span> рублей, оплачивается сразу с момента подписания договора.</li>
+  <li><b>Окончательный расчет:</b> 50% от стоимости, то есть <span class="editable" contenteditable="true">10 000</span> рублей, оплачивается в течение 3 рабочих дней после подписания сторонами акта сдачи-приемки выполненных работ.</li>
+</ul>
+<p>3.3. Расходы на оплату хостинга, доменного имени, а также комиссии платежных агрегаторов/СБП несет заказчик.</p>
+
+<h2>4. ОБЯЗАННОСТИ СТОРОН</h2>
+<h3>4.1. исполнитель обязуется:</h3>
+<p>4.1.1. Выполнить работы качественно и в срок, согласно Техническому заданию.</p>
+<p>4.1.2. Передать заказчик доступы к административной панели и исходному коду сайта после полной оплаты.</p>
+
+<h3>4.2. заказчик обязуется:</h3>
+<p>4.2.1. Предоставить исполнителю весь контент для наполнения сайта (фотографии блюд, тексты описаний, названия, логотип) в течение 3 дней после подписания договора.</p>
+<p>4.2.2. Обеспечить своевременную обратную связь и согласование этапов (дизайна, верстки) не позднее 2 рабочих дней с момента получения материалов от исполнитель.</p>
+<p>4.2.3. Своевременно оплатить работы в порядке, указанном в п. 3 настоящего договора.</p>
+
+<h2>5. ПОРЯДОК СДАЧИ-ПРИЕМКИ РАБОТ</h2>
+<p>5.1. По завершении работ исполнитель направляет заказчик ссылку на готовый сайт и акт сдачи-приемки.</p>
+<p>5.2. заказчик обязан в течение 3 (трех) рабочих дней протестировать сайт. При наличии замечаний заказчик направляет исполнителю мотивированный отказ от приемки с перечнем доработок.</p>
+<p>5.3. исполнитель обязан устранить замечания в согласованный сторонами срок. Доработки, не предусмотренные Техническим заданием (Приложение №1), выполняются за дополнительную плату.</p>
+<p>5.4. Если в течение 3 (трех) рабочих дней после отправки акта заказчик не предоставил мотивированный отказ, работы считаются принятыми в полном объеме, а акт — подписанным.</p>
+
+<h2>6. ИНТЕЛЛЕКТУАЛЬНАЯ СОБСТВЕННОСТЬ</h2>
+<p>6.1. Исключительные права на созданный сайт (дизайн, код, структуру) переходят к заказчик <b>только после 100% (стопроцентной) оплаты</b> стоимости работ по настоящему договору.</p>
+<p>6.2. До момента полной оплаты исполнитель сохраняет за собой право демонстрировать сайт в своем портфолио.</p>
+
+<h2>7. ГАРАНТИИ И ТЕХНИЧЕСКАЯ ПОДДЕРЖКА</h2>
+<p>7.1. исполнитель предоставляет гарантию на выполненные работы сроком на <b>1 (один) месяц</b> с даты подписания акта сдачи-приемки.</p>
+<p>7.2. В гарантийный период исполнитель обязуется бесплатно устранять ошибки и баги в работе сайта, возникшие по его вине.</p>
+<p>7.3. Гарантия не распространяется на случаи: внесения изменений в код третьими лицами; некорректной работы хостинга; изменения API сторонних сервисов (в т.ч. СБП); а также на добавление нового функционала.</p>
+<p>7.4. Любые доработки, внедрение нового функционала или изменение дизайна после истечения гарантийного периода (или не входящие в ТЗ) оплачиваются заказчик дополнительно по отдельному соглашению или почасовой ставке.</p>
+
+<h2>8. ОТВЕТСТВЕННОСТЬ СТОРОН И ФОРС-МАЖОР</h2>
+<p>8.1. стороны несут ответственность за неисполнение обязательств по договору в соответствии с действующим законодательством РФ.</p>
+<p>8.2. стороны освобождаются от ответственности за частичное или полное неисполнение обязательств, если это вызвано обстоятельствами непреодолимой силы (форс-мажор).</p>
+
+<h2>9. РЕКВИЗИТЫ И ПОДПИСИ СТОРОН</h2>
+
+<div class="signatures">
+  <div class="sign-block">
+    <h3>ИСПОЛНИТЕЛЬ:</h3>
+    <p><span class="editable" contenteditable="true">ИНДИВИДУАЛЬНЫЙ ПРЕДПРИНИМАТЕЛЬ РОТМАН СЕРГЕЙ СЕРГЕЕВИЧ</span><br>
+    ИНН: <span class="editable" contenteditable="true">311904039375</span><br>
+    ОГРНИП: <span class="editable" contenteditable="true">326310000018841</span><br>
+    Телефон для связи: <span class="editable" contenteditable="true">+79010082190</span><br>
+    Телефон для перевода по СБП на Озон Банк: <span class="editable" contenteditable="true">+79001718462</span></p>
+    <p>Подпись:</p>
+    <canvas id="sig1" width="300" height="80"></canvas>
+    <p style="margin-top:5px;">/ <span class="editable" contenteditable="true">Ротман С.С.</span> /</p>
+  </div>
+
+  <div class="sign-block">
+    <h3>ЗАКАЗЧИК:</h3>
+    <p><span class="editable" contenteditable="true">[Название организации / ФИО ИП]</span><br>
+    Телефон: <span class="editable" contenteditable="true">[Телефон клиента]</span></p>
+    <p>Подпись:</p>
+    <canvas id="sig2" width="300" height="80"></canvas>
+    <p style="margin-top:5px;">/ <span class="editable" contenteditable="true">[ФИО Заказчика]</span> /</p>
+  </div>
+</div>
+
+<div class="controls">
+  <button class="btn-send" onclick="sendToTelegram()">📨 Отправить исполнителю</button>
+  <button class="btn-clear" onclick="clearSignatures()">🧹 Очистить подписи</button>
+</div>
+
+<script>
+  // Telegram credentials
+  const TELEGRAM_BOT_TOKEN = '8656212937:AAEg4hW9G3wNVfTcYF5dpLYH9s_gTKpKhDg';
+  const TELEGRAM_CHAT_ID = '1024694488';
+
+  // Твоя подпись в base64
+  const MY_SIGNATURE = 'data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAASwAAABQCAYAAACRx8d3AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAMzSURBVHhe7d0xbhsxEEXRf5T0/ktKpXESwI0dW9yZ4Z1zNgGWJO7jY0jJ+vPz8/MfwAr/fvsBgK8SLCIGi4jBImKwiBgsIgaLiMEiYrCIGCwiBouIwSJisIgYLCIGi4jBImKwiBgsIgaLiMEiYrCIGCwiBouIwSJisIgYLCIGi4jBImKwiBgsIgaLiMEiYrCIGCwiBouIwSJisIgYLCIGi4jBImKwiBgsIgaLiMEiYrCIGCwiBouIwSJisIgYLCIGi4jBImKwiBgsIgaLiMEiYrCIGCwiBouIwSJisIgYLCIGi4jBImKwiBgsIgaLiMEiYrCIGCwiBouIwSJisIgYLCIGi4jBImKwiBgsIgaLiMEiYrCIGCwiBouIwSJisIgYLCIGi4jBImKwiBgsIgaLiMEiYrCIGCwiBouIwSJisIgYLCIGi4jBImKwiBgsIgaLiMEiYrCIGCwiBouIwSJisIgYLCIGi4jBImKwiBgsIgaLiMEiYrCIGCwiBouIwSJisIgYLCIGi4jBImKwiBgsIgaLiMEiYrCIGCwiBouIwSJisIgYLCIGi4jBImKwiBgsIgaLiMEiYrCIGCwiBouIwSJisIgYLCIGi4jBImKwiBgsIgaLiMEiYrCIGCwiBouIwSJisIgYLCIGi4jBImKwiBgsIgaLiMEiYrCIGCwiBouIwSJisIgYLCIGi......';
+
+  function setupCanvas(canvas) {
+    const ctx = canvas.getContext('2d');
+    ctx.lineWidth = 2;
+    ctx.lineCap = 'round';
+    ctx.strokeStyle = '#000';
+    let drawing = false;
+
+    function getPos(e) {
+      const rect = canvas.getBoundingClientRect();
+      const scaleX = canvas.width / rect.width;
+      const scaleY = canvas.height / rect.height;
+      const clientX = e.touches ? e.touches[0].clientX : e.clientX;
+      const clientY = e.touches ? e.touches[0].clientY : e.clientY;
+      return {
+        x: (clientX - rect.left) * scaleX,
+        y: (clientY - rect.top) * scaleY
+      };
+    }
+
+    function start(e) {
+      e.preventDefault();
+      drawing = true;
+      const pos = getPos(e);
+      ctx.beginPath();
+      ctx.moveTo(pos.x, pos.y);
+    }
+
+    function move(e) {
+      if (!drawing) return;
+      e.preventDefault();
+      const pos = getPos(e);
+      ctx.lineTo(pos.x, pos.y);
+      ctx.stroke();
+    }
+
+    function end() { 
+      drawing = false;
+    }
+
+    canvas.addEventListener('mousedown', start);
+    canvas.addEventListener('mousemove', move);
+    canvas.addEventListener('mouseup', end);
+    canvas.addEventListener('mouseleave', end);
+
+    canvas.addEventListener('touchstart', start);
+    canvas.addEventListener('touchmove', move);
+    canvas.addEventListener('touchend', end);
+  }
+
+  // Загрузка твоей подписи при старте
+  function loadMySignature() {
+    const canvas = document.getElementById('sig1');
+    const ctx = canvas.getContext('2d');
+    const img = new Image();
+    
+    img.onload = () => {
+      // Очищаем canvas и рисуем подпись
+      ctx.clearRect(0, 0, canvas.width, canvas.height);
+      
+      // Масштабируем подпись под размер canvas
+      const scale = Math.min(canvas.width / img.width, canvas.height / img.height);
+      const x = (canvas.width - img.width * scale) / 2;
+      const y = (canvas.height - img.height * scale) / 2;
+      
+      ctx.drawImage(img, x, y, img.width * scale, img.height * scale);
+    };
+    
+    img.src = MY_SIGNATURE;
+  }
+
+  const c1 = document.getElementById('sig1');
+  const c2 = document.getElementById('sig2');
+  setupCanvas(c1);
+  setupCanvas(c2);
+
+  function clearSignatures() {
+    [c1, c2].forEach(c => {
+      c.getContext('2d').clearRect(0, 0, c.width, c.height);
+    });
+    // После очистки перезагружаем твою подпись
+    setTimeout(loadMySignature, 100);
+  }
+
+  // Отправка данных в Telegram
+  async function sendToTelegram() {
+    // Собираем все заполненные данные
+    const editables = document.querySelectorAll('.editable');
+    const data = {};
+    editables.forEach((el, i) => {
+      data[`field_${i}`] = el.innerHTML;
+    });
+
+    // Получаем подписи как base64
+    const sig1 = document.getElementById('sig1').toDataURL();
+    const sig2 = document.getElementById('sig2').toDataURL();
+
+    // Формируем текст сообщения
+    let message = '📄 *Новый заполненный договор!*\n\n';
+    message += `👤 *Заказчик:* ${data['field_1'] || 'Не указано'}\n`;
+    message += `📞 *Телефон:* ${data['field_19'] || 'Не указано'}\n`;
+    message += `✍️ *ФИО Заказчика:* ${data['field_21'] || 'Не указано'}\n\n`;
+    message += `💰 *Сумма договора:* ${data['field_8']} руб.\n`;
+    message += `💳 *Аванс:* ${data['field_9']} руб.\n`;
+    message += `💳 *Остаток:* ${data['field_10']} руб.\n\n`;
+    message += `📅 *Дата предоставления контента:* ${data['field_13'] || 'Не указано'}\n\n`;
+    message += `✅ Договор заполнен и готов к работе!`;
+
+    // Отправляем текстовое сообщение
+    try {
+      const textResponse = await fetch(`https://api.telegram.org/bot${TELEGRAM_BOT_TOKEN}/sendMessage`, {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({
+          chat_id: TELEGRAM_CHAT_ID,
+          text: message,
+          parse_mode: 'Markdown'
+        })
+      });
+
+      if (!textResponse.ok) throw new Error('Ошибка отправки текста');
+
+      // Отправляем подпись исполнителя
+      const sig1Blob = await (await fetch(sig1)).blob();
+      const formData1 = new FormData();
+      formData1.append('chat_id', TELEGRAM_CHAT_ID);
+      formData1.append('photo', sig1Blob, 'signature_executor.png');
+      formData1.append('caption', '✍️ Подпись Исполнителя');
+
+      await fetch(`https://api.telegram.org/bot${TELEGRAM_BOT_TOKEN}/sendPhoto`, {
+        method: 'POST',
+        body: formData1
+      });
+
+      // Отправляем подпись заказчика
+      const sig2Blob = await (await fetch(sig2)).blob();
+      const formData2 = new FormData();
+      formData2.append('chat_id', TELEGRAM_CHAT_ID);
+      formData2.append('photo', sig2Blob, 'signature_customer.png');
+      formData2.append('caption', '✍️ Подпись Заказчика');
+
+      await fetch(`https://api.telegram.org/bot${TELEGRAM_BOT_TOKEN}/sendPhoto`, {
+        method: 'POST',
+        body: formData2
+      });
+
+      alert('✅ Договор успешно отправлен исполнителю в Telegram!');
+    } catch (error) {
+      console.error('Ошибка:', error);
+      alert('❌ Ошибка отправки. Попробуйте еще раз.');
+    }
+  }
+
+  // Загружаем твою подпись при старте страницы
+  window.addEventListener('load', loadMySignature);
+</script>
+
+</body>
+</html>
